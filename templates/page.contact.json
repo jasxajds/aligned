@@ -56,8 +56,8 @@
         "question_TmiHyY": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "How long will it take to receive my order?",
+            "answer": "<p>Orders are processed locally and typically arrive within <strong>5–7 business days</strong>.</p>"
           }
         }
       },
