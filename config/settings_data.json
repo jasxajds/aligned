@@ -22,6 +22,13 @@
     "text_font": "univers_next_n4",
     "text_font_size_desktop": 14,
     "button_letter_spacing": 18,
+    "cart_icon": "shopping_bag",
+    "cart_show_free_shipping_bar": true,
+    "cart_free_shipping_threshold": "0",
+    "social_facebook": "https://www.facebook.com/shopbealigned/",
+    "social_instagram": "https://www.instagram.com/shopbealigned/",
+    "social_whatsapp": "https://wa.me/9613959140",
+    "social_tiktok": "https://www.tiktok.com/@shopbealigned",
     "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
