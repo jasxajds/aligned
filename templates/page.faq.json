@@ -55,6 +55,13 @@
             "answer": "<p>Currently available online in Lebanon, with more locations coming soon.</p>"
           }
         },
+        "question_yBhrzt": {
+          "type": "question",
+          "settings": {
+            "question": "How should I care for my mat?",
+            "answer": "<p>Wipe with a damp cloth when needed and let it air dry. Simple, clean, and ready for your next session.</p>"
+          }
+        },
         "question_bFQdiw": {
           "type": "question",
           "settings": {
@@ -70,6 +77,7 @@
         "question-3",
         "question_8NtfjK",
         "question_7TLBPa",
+        "question_yBhrzt",
         "question_bFQdiw"
       ],
       "settings": {
