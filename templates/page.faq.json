@@ -54,6 +54,13 @@
             "question": "Where are Aligned mats available?",
             "answer": "<p>Currently available online in Lebanon, with more locations coming soon.</p>"
           }
+        },
+        "question_bFQdiw": {
+          "type": "question",
+          "settings": {
+            "question": "How can I contact you?",
+            "answer": "<p>You can reach us anytime by email at <a><strong>help@bealigned.me</strong></a>. We’ll get back to you as soon as possible.</p>"
+          }
         }
       },
       "block_order": [
@@ -62,7 +69,8 @@
         "question-2",
         "question-3",
         "question_8NtfjK",
-        "question_7TLBPa"
+        "question_7TLBPa",
+        "question_bFQdiw"
       ],
       "settings": {
         "color_scheme": "",
