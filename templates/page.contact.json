@@ -1,1 +1,86 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"contact-form":{"type":"contact","settings":{}}},"order":["main","contact-form"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "contact-form": {
+      "type": "contact",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Contact",
+        "content": ""
+      }
+    },
+    "faq_xAXPCN": {
+      "type": "faq",
+      "blocks": {
+        "category_t4Npdy": {
+          "type": "category",
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_QcbDTL": {
+          "type": "question",
+          "settings": {
+            "question": "What payment methods do you accept?",
+            "answer": "<p>At the moment, we accept <strong>cash on delivery</strong>. We’re actively working on integrating <strong>credit card payments </strong>and will share updates as soon as they’re available.</p>"
+          }
+        },
+        "question_rGqjBk": {
+          "type": "question",
+          "settings": {
+            "question": "How long will it take to get my orders?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "question_TmiHyY": {
+          "type": "question",
+          "settings": {
+            "question": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_t4Npdy",
+        "question_QcbDTL",
+        "question_rGqjBk",
+        "question_TmiHyY"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact-form",
+    "faq_xAXPCN"
+  ]
+}
