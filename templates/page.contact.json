@@ -59,13 +59,29 @@
             "question": "How long will it take to receive my order?",
             "answer": "<p>Orders are processed locally and typically arrive within <strong>5–7 business days</strong>.</p>"
           }
+        },
+        "question_xeAkrR": {
+          "type": "question",
+          "settings": {
+            "question": "Are you open to collaborations?",
+            "answer": "<p>Yes, we’re always open to collaborating with <strong>influencers and up-and-coming creators </strong>who align with our brand values.<br/>For collaboration inquiries, please email us at <a><strong>help@bealigned.me</strong></a></p>"
+          }
+        },
+        "question_jPGb3N": {
+          "type": "question",
+          "settings": {
+            "question": "Where are Aligned mats available?",
+            "answer": "<p>Currently available online in Lebanon, with more locations coming soon.</p>"
+          }
         }
       },
       "block_order": [
         "category_t4Npdy",
         "question_QcbDTL",
         "question_rGqjBk",
-        "question_TmiHyY"
+        "question_TmiHyY",
+        "question_xeAkrR",
+        "question_jPGb3N"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
