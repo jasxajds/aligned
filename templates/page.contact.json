@@ -49,8 +49,8 @@
         "question_rGqjBk": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "Can I request a refund or exchange?",
+            "answer": "<p><a href=\"/policies/refund-policy\" target=\"_blank\" title=\"Refund Policy\"><strong>Refund & Exchange Policy</strong></a><strong> </strong></p>"
           }
         },
         "question_TmiHyY": {
