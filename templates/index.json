@@ -116,7 +116,27 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "the-basics",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
+        "collection_efbJ7G": {
+          "type": "collection",
+          "settings": {
+            "collection": "volume-1",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
+        "collection_XRaVVC": {
+          "type": "collection",
+          "settings": {
+            "collection": "limited-edition",
             "products_count": 8,
             "title": "",
             "link_url": "",
@@ -125,7 +145,9 @@
         }
       },
       "block_order": [
-        "collection-1"
+        "collection-1",
+        "collection_efbJ7G",
+        "collection_XRaVVC"
       ],
       "settings": {
         "color_scheme": "",
@@ -133,40 +155,24 @@
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_desktop": 3,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
+        "subheading": ""
       }
     },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection-2": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "the-basics",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "The Basics",
             "button_text": "View products",
             "button_link": "",
             "button_style": "solid",
@@ -178,11 +184,11 @@
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "volume-1",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "VOLUME 1",
             "button_text": "View products",
             "button_link": "",
             "button_style": "solid",
@@ -190,48 +196,16 @@
             "overlay_opacity": 30
           }
         },
-        "collection-4": {
+        "collection-1": {
           "type": "collection",
           "settings": {
             "color_scheme": "",
-            "collection": "",
+            "collection": "limited-edition",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-5": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
+            "title": "Limited Edition",
+            "button_text": "VIEW PRODUCTS",
             "button_link": "",
             "button_style": "solid",
             "overlay_color": "#000000",
@@ -240,20 +214,17 @@
         }
       },
       "block_order": [
-        "collection-1",
         "collection-2",
         "collection-3",
-        "collection-4",
-        "collection-5",
-        "collection-6"
+        "collection-1"
       ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image_size": "auto",
+        "image_size": "xs",
         "show_text_outside": false,
         "space_items": true,
-        "stack_collections": true,
+        "stack_collections": false,
         "collections_per_row_mobile": "1",
         "collections_per_row_desktop": 3,
         "subheading": "",
