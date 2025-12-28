@@ -240,6 +240,8 @@
           "type": "before",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/Before.png",
+            "mobile_image": "shopify://shop_images/Before.png",
             "text": "Before",
             "link_text": "",
             "link_url": "",
@@ -266,7 +268,7 @@
         "separate_section_with_border": true,
         "subheading": "",
         "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "content": "<p><strong>Protect yourself from shared reformer surfaces.</strong><br/>Aligned creates a cleaner layer between you and the reformer.<br/><strong>Your practice. Your surface. Your peace of mind.</strong></p>",
         "cursor_direction": "horizontal",
         "cursor_initial_position": 50,
         "cursor_background": "#ffffff",
