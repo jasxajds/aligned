@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/64A8382.jpg",
+            "mobile_image": "shopify://shop_images/64A8382.jpg",
             "subheading": "Every person carries a story. Choose a mat that refelcts yours.",
             "title": "Elevate your practice",
             "mobile_text_position": "place-self-center text-center",
