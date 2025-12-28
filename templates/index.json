@@ -252,6 +252,8 @@
           "type": "after",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/After.png",
+            "mobile_image": "shopify://shop_images/After.png",
             "text": "After",
             "link_text": "",
             "link_url": "",
