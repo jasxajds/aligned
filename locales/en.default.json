@@ -439,7 +439,7 @@
   "password": {
     "general": {
       "follow_us": "Follow us",
-      "powered_by": " ",
+      "powered_by": "  ",
       "store_owner": "Store owner?",
       "login": "Login"
     },
@@ -476,8 +476,11 @@
   "shopify": {
     "checkout": {
       "general": {
-        "autocomplete_powered_by_google": " "
+        "autocomplete_powered_by_google": "  "
       }
+    },
+    "links": {
+      "powered_by_shopify": "powered by aligned"
     }
   }
 }
