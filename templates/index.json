@@ -61,7 +61,7 @@
         "column-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/Be_clean.png",
+            "image": "shopify://shop_images/be_clean.jpg",
             "title": "Be Clean",
             "heading_tag": "h3",
             "content": "<p>Place your mat on the reformer and create a clean environment just for you.</p>",
