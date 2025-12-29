@@ -105,7 +105,7 @@
         "overlap_image": true,
         "content_alignment": "center",
         "text_alignment": "center",
-        "spacing": "sm",
+        "spacing": "md",
         "subheading": "",
         "title": "",
         "content": ""
