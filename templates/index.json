@@ -83,7 +83,7 @@
         "column-3": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-12-29_at_13.20.17.png",
+            "image": "shopify://shop_images/Screenshot_2025-12-29_at_13.34.22.png",
             "title": "Be Consistent",
             "heading_tag": "h3",
             "content": "<p>Roll it, carry it, love it.</p>",
@@ -103,7 +103,7 @@
         "columns_per_row": 3,
         "stack_on_mobile": true,
         "overlap_image": false,
-        "content_alignment": "start",
+        "content_alignment": "center",
         "text_alignment": "center",
         "spacing": "md",
         "subheading": "",
