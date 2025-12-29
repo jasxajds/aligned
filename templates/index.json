@@ -104,7 +104,7 @@
         "stack_on_mobile": true,
         "overlap_image": false,
         "content_alignment": "center",
-        "text_alignment": "center",
+        "text_alignment": "start",
         "spacing": "md",
         "subheading": "",
         "title": "",
