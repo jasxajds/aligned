@@ -103,7 +103,7 @@
         "columns_per_row": 3,
         "stack_on_mobile": true,
         "overlap_image": false,
-        "content_alignment": "center",
+        "content_alignment": "start",
         "text_alignment": "center",
         "spacing": "md",
         "subheading": "",
