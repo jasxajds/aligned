@@ -309,34 +309,35 @@
         "cursor_arrows_color": "#000000"
       }
     },
-    "1768676560cb2d7515": {
+    "176867853869dc9e83": {
       "type": "apps",
       "blocks": {
-        "loox_reviews_loox_testimonial_carousel_section_WxHmj3": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-testimonial-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "loox_reviews_loox_card_carousel_section_zWMMgq": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-card-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "maxWidth": 830,
-            "desktopFontSize": 25,
-            "mobileFontSize": 20,
+            "maxWidth": 750,
+            "borderRadius": 8,
+            "itemsPerView": 4,
+            "mobileItemsPerView": 1,
             "maxNumberOfCharacters": 100,
-            "quoteMarkIcon": "style-1",
-            "reviewerNameColor": "#000000",
-            "textColor": "#1c1c1c",
+            "imageRatio": "0.72",
+            "reviewerNameColor": "#1c1c1c",
+            "textColor": "#000000",
+            "itemBackgroundColor": "#efefef",
             "starsColor": "",
-            "quotesIconColor": "#EAEAEA",
-            "arrows_iconColor": "#000000",
-            "arrows_hideOnMobile": true,
-            "pagination_active": true,
-            "pagination_selectedDotColor": "#000000",
-            "pagination_dotColor": "#000000",
-            "autoplay_active": false,
-            "autoplay_duration": 2,
+            "starsBackgroundColor": "#efefef",
+            "arrows_backgroundColor": "#FFFFFF",
+            "arrows_iconColor": "#9A9A9A",
+            "shadow": "basic",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
             "productIds": ""
           }
         }
       },
       "block_order": [
-        "loox_reviews_loox_testimonial_carousel_section_WxHmj3"
+        "loox_reviews_loox_card_carousel_section_zWMMgq"
       ],
       "settings": {
         "color_scheme": "",
@@ -403,7 +404,7 @@
     "featured_collections_tcUe9F",
     "collection-list",
     "before-after",
-    "1768676560cb2d7515",
+    "176867853869dc9e83",
     "176867608345614a2d",
     "newsletter"
   ]
