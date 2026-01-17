@@ -191,42 +191,6 @@
         "subheading": ""
       }
     },
-    "176867608345614a2d": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_trust_badge_tinjMP": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "layout": "horizontal",
-            "alignment": "center",
-            "scheme-type": "default",
-            "review-title": "reviews",
-            "rating-icon": true,
-            "average-rating": true,
-            "loox-branding": true,
-            "review-count": true,
-            "open-reviews": true,
-            "show-border": true,
-            "border-radius": 8,
-            "font-size": 20,
-            "background-color": "",
-            "secondary-background-color": "",
-            "text-color": "",
-            "rating-icon-color": "",
-            "border-color": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_trust_badge_tinjMP"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -345,6 +309,78 @@
         "cursor_arrows_color": "#000000"
       }
     },
+    "1768676560cb2d7515": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_testimonial_carousel_section_WxHmj3": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-testimonial-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 830,
+            "desktopFontSize": 25,
+            "mobileFontSize": 20,
+            "maxNumberOfCharacters": 100,
+            "quoteMarkIcon": "style-1",
+            "reviewerNameColor": "#000000",
+            "textColor": "#1c1c1c",
+            "starsColor": "",
+            "quotesIconColor": "#EAEAEA",
+            "arrows_iconColor": "#000000",
+            "arrows_hideOnMobile": true,
+            "pagination_active": true,
+            "pagination_selectedDotColor": "#000000",
+            "pagination_dotColor": "#000000",
+            "autoplay_active": false,
+            "autoplay_duration": 2,
+            "productIds": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_testimonial_carousel_section_WxHmj3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "176867608345614a2d": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_trust_badge_tinjMP": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "layout": "horizontal",
+            "alignment": "center",
+            "scheme-type": "default",
+            "review-title": "reviews",
+            "rating-icon": true,
+            "average-rating": true,
+            "loox-branding": true,
+            "review-count": true,
+            "open-reviews": true,
+            "show-border": true,
+            "border-radius": 8,
+            "font-size": 20,
+            "background-color": "",
+            "secondary-background-color": "",
+            "text-color": "",
+            "rating-icon-color": "",
+            "border-color": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_trust_badge_tinjMP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "settings": {
@@ -367,6 +403,7 @@
     "featured_collections_tcUe9F",
     "collection-list",
     "before-after",
+    "1768676560cb2d7515",
     "176867608345614a2d",
     "newsletter"
   ]
