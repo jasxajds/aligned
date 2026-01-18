@@ -326,8 +326,8 @@
             "itemBackgroundColor": "#efefef",
             "starsColor": "",
             "starsBackgroundColor": "#efefef",
-            "arrows_backgroundColor": "#FFFFFF",
-            "arrows_iconColor": "#9A9A9A",
+            "arrows_backgroundColor": "#ffffff",
+            "arrows_iconColor": "#9a9a9a",
             "shadow": "basic",
             "border_active": false,
             "border_width": 2,
@@ -395,6 +395,15 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "17687146325aa46a83": {
+      "type": "apps",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
     }
   },
   "order": [
@@ -406,6 +415,7 @@
     "before-after",
     "176867853869dc9e83",
     "176867608345614a2d",
-    "newsletter"
+    "newsletter",
+    "17687146325aa46a83"
   ]
 }
