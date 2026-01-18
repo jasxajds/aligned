@@ -395,15 +395,6 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
-    },
-    "17687146325aa46a83": {
-      "type": "apps",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false
-      }
     }
   },
   "order": [
@@ -415,7 +406,6 @@
     "before-after",
     "176867853869dc9e83",
     "176867608345614a2d",
-    "newsletter",
-    "17687146325aa46a83"
+    "newsletter"
   ]
 }
